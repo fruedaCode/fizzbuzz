@@ -12,12 +12,19 @@ An implementation of the well-known party / drinking game.
 
 For example:
 FizzBuzz().apply(3) >> "fizz"
+
 FizzBuzz().apply(6) >> "fizz"
+
 FizzBuzz().apply(5) >> "fizz"
+
 FizzBuzz().apply(10) >> "fizz"
+
 FizzBuzz().apply(15) >> "fizzbuzz"
+
 FizzBuzz().apply(30) >> "fizzbuzz"
+
 FizzBuzz().apply(4) >> "4"
+
 
 
 == Requirements
