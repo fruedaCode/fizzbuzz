@@ -1,8 +1,8 @@
-* FizzBuzz Game TDD
+# FizzBuzz Game TDD
 
 This is an example of TDD with spock framework and kotlin implementation
 
-** What we want to do?
+## What we want to do?
 An implementation of the well-known party / drinking game.
 
 - When passed an argument divisible by 3 the function should return `fizz`.
@@ -21,15 +21,15 @@ FizzBuzz().apply(4) >> "4" <br />
 
 
 
-* Requirements
+## Requirements
 
 ** JDK 8
 ** Git
 
-* Get started
+## Get started
 
-----
+```
 git clone https://github.com/fuedacode/fizzbuzz.git
 cd fizzbuzz
 ../gradlew
-----
+```
