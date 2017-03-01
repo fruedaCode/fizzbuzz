@@ -19,6 +19,7 @@ FizzBuzz().apply(15) >> "fizzbuzz"
 FizzBuzz().apply(30) >> "fizzbuzz"
 FizzBuzz().apply(4) >> "4"
 
+
 == Requirements
 
 * JDK 8
